@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Mantle-HAL-Remix"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "HAL Parser for Objective-C with added strong typing."
   s.homepage     = "https://www.github.com/remixnine/Mantle-HAL-Remix"
   s.license      = { :type => "MIT", :file => "LICENSE" }
