@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Lynn Zhou" => "lynn@lynnzhou.com" }
   s.social_media_url = 'https://twitter.com/remixnine'
-  s.source       = { :git => "https://github.com/remixnine/Mantle-HAL-Remix.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/remixnine/Mantle-HAL-Remix.git", :tag => "1.0.1" }
   
   s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.8'
