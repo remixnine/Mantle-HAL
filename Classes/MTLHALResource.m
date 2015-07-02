@@ -204,7 +204,7 @@ static NSMutableDictionary *p_classesForRelations;
     }
     else {
         
-        return [self resourcesForRelation:relation][0];
+        return [[self resourcesForRelation:relation]firstObject];
     }
 }
 
